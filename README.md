@@ -3,7 +3,7 @@
 A sleek and interactive web application that fetches real-time LeetCode user statistics and beautifully visualizes coding progress.
 
 🚀 Overview
-
+Demo:  https://lalbabukumar12.github.io/-LeetCode-User-Stats-Interactive-Profile-Analyzer/
 LeetCode User Stats allows users to instantly retrieve their coding performance data by simply entering a valid LeetCode username. The app displays important insights including:
 
 ✔️ Total Problems Solved
